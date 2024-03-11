@@ -1,0 +1,36 @@
+
+.skill{
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+.skills{
+    display: flex;
+}
+#html, #css, #js, #typescript, #react{
+    width: 270px;
+    height: 400px;
+    font-size: 150px;
+    color: rgb(59, 58, 58);
+    opacity: 2;
+    border-radius: 20px;
+    background-color: rgb(235, 220, 220);
+    margin: 20px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+#hem{
+    font-size: 30px;
+    color: black;
+}
+#ejo{
+    padding-top: 10px;
+    font-size: 16px;
+    color: black;
+    opacity: 0.7;
+}
+

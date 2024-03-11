@@ -1,0 +1,11 @@
+
+footer{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+
